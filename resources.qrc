@@ -1,0 +1,77 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>ImageTANCE/background.png</file>
+        <file>ImageTANCE/backgroundimage.jpg</file>
+        <file>ImageTANCE/car_e.png</file>
+        <file>ImageTANCE/car_n.png</file>
+        <file>ImageTANCE/car_s.png</file>
+        <file>ImageTANCE/car_w.png</file>
+        <file>ImageTANCE/Grass.jpg</file>
+        <file>ImageTANCE/3_lanes_icon.png</file>
+        <file>ImageTANCE/5_lanes_icon.png</file>
+        <file>ImageTANCE/about_icon.png</file>
+        <file>ImageTANCE/Artboard 2@3x.png</file>
+        <file>ImageTANCE/Asset 2.png</file>
+        <file>ImageTANCE/Asset 3.png</file>
+        <file>ImageTANCE/Asset 4.png</file>
+        <file>ImageTANCE/Asset 5.png</file>
+        <file>ImageTANCE/Asset 6.png</file>
+        <file>ImageTANCE/Asset 7.png</file>
+        <file>ImageTANCE/Asset 8.png</file>
+        <file>ImageTANCE/Asset 9.png</file>
+        <file>ImageTANCE/Asset 10.png</file>
+        <file>ImageTANCE/Asset 11.png</file>
+        <file>ImageTANCE/Asset 13.png</file>
+        <file>ImageTANCE/Asset 14.png</file>
+        <file>ImageTANCE/Asset 16.png</file>
+        <file>ImageTANCE/Asset 17.png</file>
+        <file>ImageTANCE/back_icon.png</file>
+        <file>ImageTANCE/back_icon_2.png</file>
+        <file>ImageTANCE/down_icon.png</file>
+        <file>ImageTANCE/example-trefoil.gif</file>
+        <file>ImageTANCE/exit_icon.png</file>
+        <file>ImageTANCE/eye_icon.png</file>
+        <file>ImageTANCE/fe_logo.jpg</file>
+        <file>ImageTANCE/go_through_icon.png</file>
+        <file>ImageTANCE/help_icon.png</file>
+        <file>ImageTANCE/icon_back_white.png</file>
+        <file>ImageTANCE/icon_next_white.png</file>
+        <file>ImageTANCE/icon-more.png</file>
+        <file>ImageTANCE/left_icon.png</file>
+        <file>ImageTANCE/Loading.png</file>
+        <file>ImageTANCE/logo_inter.png</file>
+        <file>ImageTANCE/Logo-AI.png</file>
+        <file>ImageTANCE/next_icon.png</file>
+        <file>ImageTANCE/no_traffic_icon.png</file>
+        <file>ImageTANCE/no_turn_icon.png</file>
+        <file>ImageTANCE/only_turn_icon.png</file>
+        <file>ImageTANCE/pause_icon.png</file>
+        <file>ImageTANCE/pause-icon.png</file>
+        <file>ImageTANCE/play_icon.png</file>
+        <file>ImageTANCE/play-icon.png</file>
+        <file>ImageTANCE/qt_logo.png</file>
+        <file>ImageTANCE/random_icon.png</file>
+        <file>ImageTANCE/reset_icon.png</file>
+        <file>ImageTANCE/reset-icon.png</file>
+        <file>ImageTANCE/right_icon.png</file>
+        <file>ImageTANCE/road-image.svg</file>
+        <file>ImageTANCE/road-path.svg</file>
+        <file>ImageTANCE/roc_logo.png</file>
+        <file>ImageTANCE/setting_icon.png</file>
+        <file>ImageTANCE/show_dector_icon.png</file>
+        <file>ImageTANCE/show_road_icon.png</file>
+        <file>ImageTANCE/show_sight_seeing_icon.png</file>
+        <file>ImageTANCE/stop_icon.png</file>
+        <file>ImageTANCE/stop-icon.png</file>
+        <file>ImageTANCE/templat.png</file>
+        <file>ImageTANCE/terrain.svg</file>
+        <file>ImageTANCE/tfd_logo.png</file>
+        <file>ImageTANCE/tool-icon.png</file>
+        <file>ImageTANCE/traffic_icon.png</file>
+        <file>ImageTANCE/visualize-icon.png</file>
+        <file>ImageTANCE/carnorth.png</file>
+        <file>ImageTANCE/carsouth.png</file>
+        <file>ImageTANCE/careast.png</file>
+        <file>ImageTANCE/carwest.png</file>
+    </qresource>
+</RCC>
